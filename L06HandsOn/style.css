@@ -1,0 +1,76 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    /* outline: 1px solid; */
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+h1 {
+    font-size: x-large;
+}
+
+
+/* .row :first {
+    display: flex;
+    justify-content: space-between;
+} */
+
+body {
+    background-image: url('thomas-lefebvre-mT1uxKaegSQ-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+img {
+    justify-items: center;
+    width: 200px;
+    height: auto;
+    margin-left: 10px;
+}
+
+.container {
+    justify-self: center;
+}
+
+#firstInfo1 {
+    margin: 0;
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+    /* display: flex; */
+}
+
+
+/* @media (max-width: 576px) {
+    img {
+        display: flex;
+        width: 250px;
+        height: auto;
+    }
+} */
+
+#list {
+    margin-bottom: 100px;
+}
+
+.list-group-item {
+    width: 300px;
+    color: black;
+    background-color: none;
+    background-color: rgb(255, 219, 221);
+    margin-left: 10px;
+}
+
+h2 {
+    margin-left: 10px;
+}
+
+.footer {
+    height: 70px;
+    border: 1px solid;
+    background-color: darkgray;
+}

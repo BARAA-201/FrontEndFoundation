@@ -1,0 +1,38 @@
+                                * {
+                                outline: 6px solid black;
+                            }
+                            
+                            nav {
+                                background-color: rgb(155, 196, 196);
+                                height: 100px;
+                                justify-content: center;
+                            }
+                            
+                            body {
+                                background-color: rgb(238, 224, 224);
+                            }
+                            
+                            .info {
+                                flex-direction: column;
+                                /* justify-content: space-between; */
+                                align-content: center;
+                            }
+                            
+                            #name {
+                                font-style: initial;
+                                font-size: x-large;
+                                justify-items: flex-start;
+                            }
+                            
+                            #job {
+                                font-style: initial;
+                                font-size: x-large;
+                                /* justify-items: flex-end; 
+
+}
+
+/* .container {
+    width: auto;
+    max-width: 680px;
+    padding: 0 15px;
+} */
